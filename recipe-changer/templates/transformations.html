@@ -1,0 +1,51 @@
+{% extends "layout.html" %}
+{% block body %}
+<h2>Transformations</h2>
+<h3>Vegetarian Transformations</h3>
+<p>In making vegetarian substitutions, the first thing we consider is the meat-containing ingredients in the recipe. We have a lost of hundreds of different types of beef, chicken, pork, fish, and other meats that a vegetarian would find undesirable.</p>
+<p>Once all of the meaty ingredients are compared against our list and removed, we attempt to determine the cuisine of the recipe and add in meat substitutes based on what the flavoring and ingredients of the recipe indicate makes the most sense.</p>
+<p>We determine four types of recipes, based on the ingredient. Whichever of these four types seems most like the recipe in question is the substitution we use:</p>
+<table class="table table-striped">
+	<tr>
+		<th>Cuisine Type</th>
+		<th>Meat Substitution</th>
+	</tr>
+	<tr>
+		<td>American</td>
+		<td>Mushrooms</td>
+	</tr>
+	<tr>
+		<td>Asian</td>
+		<td>Tofu</td>
+	</tr>
+	<tr>
+		<td>Italian</td>
+		<td>Eggplant</td>
+	</tr>
+	<tr>
+		<td>Mexican</td>
+		<td>Peppers, chopped and sauteed</td>
+	</tr>
+</table>
+<p>Finally, if the meat ingredient is liquidy, such as beef broth or cream of chicken soup, we suggest using vegetarian broth as the substitute.</p>
+<h3>Healthy Transformations</h3>
+<p>Some information about being healthy</p>
+<h3>Cuisine Transformations</h3>
+<p>Many great recipes are born out of taking one dish and trying to give it a flair from another cuisine type. We also attempt to do this, through a series of ingredient substitutions.</p>
+<p>First, we determine the current predominant cuisine type, just as we did with vegetarian substitutions. We then take any ingredients belonging to that cuisine type and remove them. Using a lookup table, we find the appropriate substitution for the new cuisine type. For example, if we removed sesame oil from the original recipe, we would find that entry from a lookup table:</p>
+<table class="table table-bordered">
+	<tr>
+		<th>American</th>
+		<th>Italian</th>
+		<th>Asian</th>
+		<th>Mexican</th>
+	</tr>
+	<tr>
+		<td>butter</td>
+		<td>olive oil</td>
+		<td>sesame oil</td>
+		<td>corn oil</td>
+	</tr>
+</table>
+<p>If we were transforming to American cuisine, we see that we would replace that ingredient with butter. We are assuming, at this point in the development of this application, that the ingredient substitutions all use equal quantities.</p>
+{% endblock %}

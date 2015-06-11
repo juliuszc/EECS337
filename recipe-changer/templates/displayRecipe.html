@@ -1,0 +1,101 @@
+{% extends "layout.html" %}
+{% block body %}
+	{% if error != '' %}
+	<div class="alert alert-danger">{{error}}</div>
+	{% endif %}
+	{% if transform == '' %}
+	<h2>{{recipe.name}}</h2>
+	{% else %}
+	<h2>{{recipe.name}} ({{transform.title()}})</h2>
+	{% endif %}
+	<a href="{{ url }}" target="_blank">Original Recipe on AllRecipes.com</a>
+
+	<div class="row">
+		<div class="col-md-10">
+			<h3>Ingredients</h3>
+			<table class="table table-striped">
+				<tr>
+					<th>Ingredient</th>
+					<th>Quantity</th>
+					<th>Measurement</th>
+					<th>Descriptor</th>
+					<th>Preparation</th>
+				</tr>
+			{% for ingredient in recipe.ingredients %}
+				<tr>
+					<th>{{ ingredient['name'] }}</th>
+					<td>{{ ingredient['quantity'] }}</td>
+					<td>{{ ingredient['measurement'] }}</td>
+					<td>{{ ingredient['descriptor'] }}</td>
+					<td>{{ ingredient['preparation'] }}</td>
+				</tr>
+			{% endfor %}
+			</table>
+
+			<h3>Steps</h3>
+			<table class="table table-striped">
+				<tr>
+					<th>Action</th>
+					<th>Ingredients</th>
+					<th>Tools</th>
+					<th>Time</th>
+				</tr>
+			{% for step in recipe.steps %}
+				<tr>
+					<td>
+						<ul>
+						{% for action in step['action'] %}
+							<li>{{ action }}</li>
+						{% endfor %}
+						</ul>
+					</td>
+					<td>
+						<ul>
+						{% for ingredient in step['ingredients'] %}
+							<li>{{ ingredient }}</li>
+						{% endfor %}
+						</ul>
+					</td>
+					<td>
+						<ul>
+						{% for tool in step['tools'] %}
+							<li>{{ tool }}</li>
+						{% endfor %}
+						</ul>
+					</td>
+					<td>{{ step['time'] }}</td>
+				</tr>
+			{% endfor %}
+			</table>
+		</div> <!-- End col-md-10 -->
+		<div class="col-md-2">
+			<ul class="nav nav-pills nav-stacked">
+				<li class="nav-header disabled">Tools</li>
+			{% for tool in recipe.tools %}
+				<li>{{ tool }}</li>
+			{% endfor %}
+				<li class="nav-header disabled">Main Cooking Method</li>
+				<li>{{ recipe.getPrimaryMethod() }}</li>
+				{% if transform==None or transform=='' %}
+				<li class="nav-header disabled">Change Recipe</li>
+				<form action="{{ url_for('transformRecipe') }}" method="post" class="transformRecipe">
+					<input type="hidden" name="url" value="{{url}}"/>
+					<li><input type="radio" name="transformation" value="vegetarian" id="vegetarian"/> <label for="vegetarian">Vegetarian</label></li>
+					<li><input type="radio" name="transformation" value="healthy" id="healthy"/> <label for="healthy">Healthier Options</label></li>
+					<li><input type="radio" name="transformation" value="american" id="american"/> <label for="american">American Cuisine</label></li>
+					<li><input type="radio" name="transformation" value="asian" id="asian"/> <label for="asian">Asian Cuisine</label></li>
+					<li><input type="radio" name="transformation" value="italian" id="italian"/> <label for="italian">Italian Cuisine</label></li>
+					<li><input type="radio" name="transformation" value="mexican" id="mexican"/> <label for="mexican">Mexican Cuisine</label></li>
+					<li><input type="submit" value="Transform"></li>
+				</form>
+				{% else %}
+				<li class="nav-header disabled">Change Recipe</li>
+				<form action="{{ url_for('getOriginalRecipe') }}" method="post" class="getOriginalRecipe">
+					<input type="hidden" name="url" value="{{url}}"/>
+					<li><input type="submit" value="Revert Recipe"></li>
+				</form>
+				{% endif %}
+			</ul>
+</div> <!-- End col-md-2 -->
+	</div> <!-- End row -->
+{% endblock %}

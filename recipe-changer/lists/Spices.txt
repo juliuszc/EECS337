@@ -1,0 +1,471 @@
+Name			Type	
+Allspice	Pimento		Berry	
+Anise Seed			Seed	
+Annatto Seed			Seed	
+Balm	Lemon Balm		Leaf	
+Basil Leaves	Sweet		Leaf	
+Bay Leaves	Laurel Leaves		Leaf	
+Black Caraway	Russian Caraway Black Cumin		Seed	
+Black Pepper			Berry	
+Capsicums			Fruit	
+Caraway Seed			Seed	
+Cardamom			Fruit	
+Cassia	Cinnamon		Bark	
+Celery Seed			Seed	
+Chervil			Leaf	
+Chives			Leaf	
+Cilantro	Coriander Leaf		Leaf	
+Cloves			Bud	
+Coriander Seed			Seed	
+Cumin Seed	Cummin		Seed	
+Dill Seed			Seed	
+Dill Weed			Leaf	
+English Camomile	Roman Camomile		Flower	
+Fennel Seed			Seed	
+Fenugreek Seed			Seed	
+Galangal			Root	
+Garlic Powder			Bulb	
+German Camomile	Hungarian Camomile		Flower	
+Ginger			Root	
+Green Peppercorns			Berry	
+Horseradish			Root	
+Juniper			Berry	
+Lavender			Flower	
+Mace			Aril	
+Marjoram Leaves			Leaf	
+Mustard Seed			Seed	
+Nutmeg			Seed	
+Onion Powder			Bulb	
+Oregano Leaves			Leaf	
+Paprika			Fruit	
+Parsley	Dehydrated Parsley	Parsley Flakes	Leaf	
+Peppermint Leaves	Peppermint Flakes		Leaf	
+Pink Peppercorns			Berry	
+Poppy Seed			Seed	
+Rosemary Leaves			Leaf	
+Saffron			Stigma	
+Sage Leaves			Leaf	
+Savory Leaves			Leaf	
+Sesame Seed1			Seed	
+Spearmint Leaves	Spearmint Flakes		Leaf	
+Star Anise			Fruit	
+Tarragon Leaves			Leaf	
+Thyme Leaves			Leaf	
+Turmeric			Root	
+Vanilla Bean			Fruit	
+White Pepper			Berry	
+Adobe criollo				
+Amchur				
+Angelica				
+Anise				
+Annatto				
+Asafoetida				
+Barberry				
+Basil				
+Bay leaves				
+Berebere				
+Bergamot				
+Bison grass				
+Black cardamom				
+Black cumin				
+Black limes				
+Bolivian Coriander				
+Borage				
+Bush tomato				
+Calamus				
+Candle nut				
+Caper				
+Caraway				
+Celery salt				
+Celery seed				
+Chicory				
+Chile pepper				
+Chili powder				
+Chili powder				
+Chinese Five Spice				
+Cicely				
+Cocoa				
+Coriander				
+Costmary				
+Cress				
+Cumin				
+Curry powder				
+Curry leaf				
+Damiana				
+Dandelion				
+Dill seed				
+Dill				
+Dry Mustard				
+Elderberry				
+Epazote				
+Evening primrose				
+Fennel				
+Fenugreek				
+Filé powder				
+Five-spice powder (Chinese)				
+Fo-ti-tieng				
+Garam masala				
+Granualted Garlic				
+Ginger root				
+Grains of paradise				
+Herbs de Provence				
+Hickory seasoning				
+Hyssop				
+Italian Seasoning				
+Jamaican jerk spice				
+Jiaogulan				
+Jiaogulan				
+Kaffir Lime Leaves				
+Kokam				
+Lemon balm				
+Lemon Myrtle				
+Lemon verbena				
+Lemongrass				
+Licorice				
+Long pepper				
+Lovage				
+Mahlab				
+Magi				
+Marjoram				
+Mastic				
+Milk thistle				
+Mint				
+Mullien				
+Dry Mustard				
+Mustard seed				
+Nigella				
+Onion powder				
+Oregano				
+Orris root				
+Ponch phoran				
+Pandan leaf				
+Pepper				
+Pomegranate seeds				
+Poppy seed				
+Primrose				
+Purslane				
+Quatre épices				
+Ras-el hanout				
+Rocket				
+Rosemary				
+Safflower				
+Sage				
+Salad Burnet				
+Salt Free seasoning				
+Sansho				
+Savory				
+Sesame seed				
+Sorrel				
+Star anise				
+Sumac				
+Sweet cicely				
+Sweet woodruff				
+Szechuan pepper				
+Tamarind				
+Tansy				
+Tarragon				
+Thyme				
+Vanilla				
+Wasabi				
+Wattleseed				
+Zahtar				
+Allspice, Ground				
+Allspice, Whole				
+Ancho Chile, Ground				
+Ancho Chile, Whole Dried				
+Anaheim Chile Powder				
+Anaheim Chile, Whole Dried				
+Anise Star				
+Apple Cider Vingar Powder				
+Apple Pie Spice				
+Arrowroot Powder				
+Au Jus Mix				
+Barbecue Blend, Hickory Smoked				
+Barbecue Seasoning				
+Basil, Cut Leaf				
+Basil, Ground				
+Bay Leaves, Whole				
+Bay Leaves, Ground				
+Beer Extract Powder				
+Beet Powder				
+Bell Pepper, Green Flakes				
+Bell Pepper, Green Granules				
+Bell Pepper, Red Flakes				
+Bell Pepper, Red Granules				
+Black Pepper Steak Spice				
+Blacken Spice, Louisiana				
+Buffalo Wing Rub				
+Cajun Seasoning				
+Caraway Seed, Whole				
+Caraway Seed, Ground				
+Cardamom, Ground				
+Cardamom Seed				
+Cardamom, Whole Green				
+Carrots, Dehydrated				
+Cayenne Red Pepper 20K				
+Cayenne Red Pepper-40K				
+Cayenne Red Pepper-60K				
+Cayenne Red Pepper-90K				
+Cayenne Red Pepper-130K				
+Cayenne Red Pepper-160K				
+Celery Dice				
+Celery Salt				
+Celery Seed, Ground				
+Celery Seed, Whole				
+Championship Chili Mix				
+Char-Broil & Grill				
+Chicken Chili Mix ,White				
+Chicken Rub				
+Chile,Ancho Ground				
+Chile,Ancho Whole Dried				
+Chile,Anaheim Powder				
+Chile, Anaheim Whole Dried				
+Chile, Chipotle Ground				
+Chile, Guajillo Ground				
+Chili Powder, Premium				
+Chinese 5-Spice Powder				
+Chipotle Chile, Ground				
+Cider Vingar Powder				
+Cilantro, Cut Leaves				
+Cinnamon, Ground (3% oil)				
+Cinnamon, Ground				
+Vietnamese (5% oil)				
+Cinnamon Chips				
+Cinnamon Sticks, Ceylon				
+Cinnamon Sticks-1"				
+Cinnamon Sticks-2 3/4"				
+Cinnamon Sticks-3 1/2"				
+Cinnamon Sticks-4"				
+Cinnamon Sticks-6"				
+Cinnamon Sticks-10"				
+Cinnamon Sticks-12"				
+Cinnamon Sugar				
+Citric Acid/Sour Salt				
+Cloves, Ground				
+Cloves, Whole Fancy				
+Coriander, Ground				
+Coriander, Whole				
+Corn Syrup Solids				
+Cream of Tartar				
+Crushed Red Pepper-20K				
+Crushed Red Pepper-40K				
+Crushed Red Pepper-60K				
+Cumin, Ground				
+Cure Salt				
+Curry Powder				
+Dill Seed, Whole				
+Dill Seed, Ground				
+Dipping Oil Herbs				
+Fennel Seed, Whole				
+Fennel Seed, Cracked				
+Fennel Seed, Ground				
+File` Gumbo				
+Five Spice Powder				
+Garam Masala				
+Garlic Butter Dip & Seasoning				
+Garlic, Minced				
+Garlic, Minced Roasted				
+Garlic Pepper, California				
+Garlic Powder, Premium				
+Garlic, Granulated				
+Garlic, Granulated Roasted				
+Garlic Seasoning, Gourmet				
+Garlic Salt				
+Ginger, Ground				
+Ginger, Crystallized				
+Ginger, Root				
+Greek Seasoning				
+Green Bell Pepper				
+Green Bell Pepper Granules				
+Green Onions, Minced				
+Guajillo Chile Powder				
+Gumbo File`				
+Habanero Pepper Flakes				
+Habanero Pepper, Ground				
+Hamburger Seasoning				
+Herbes de Provence				
+Herbs for Dipping Oil				
+Hickory Smoked BBQ Blend				
+Hickory Smoke Powder				
+Hickory Smoked Salt				
+Honey Powder				
+Horseradish Powder				
+Italian Seasoning, Premium				
+Italian Dressing Mix				
+Jalapeno Pepper, Ground				
+Juniper Berries				
+Ketchup Spice				
+Lemon Peel Granules				
+Lemon Pepper, Gourmet				
+Lemon Juice Powder				
+Lime Juice Powder				
+Lime Peel Granules				
+Lime Pepper				
+Mace, Ground				
+Marjoram, Ground				
+Mesquite Salt				
+Mesquite Seasoning				
+Molasses Powder				
+Monosodium Glutamate				
+Mulling Spice				
+Mustard, Ground				
+Mustard Seed, Black				
+Nutmeg, Ground				
+Nutmeg, Whole				
+Old Gulf Seafood Seasoning				
+Onion, Chopped				
+Onion, Minced				
+Onion, Granulated				
+Onion Powder, Toasted				
+Onions, Green Minced				
+Onion Salt				
+Orange Peel, Chopped				
+Orange Peel, Granules				
+Orange Juice Powder				
+Oregano, Cut Leaf				
+Oregano, Ground				
+Paprika, Hungarian				
+Paprika, Smoked Hot				
+Paprika, Smoked Sweet				
+Paprika, Spanish				
+Pepper, Red Bell Granules				
+Pepper, Red Bell Flakes				
+Peppercorn Rub				
+Pickling Spice				
+Pizza Topper				
+Popcorn Seasonings				
+Poultry Seasoning				
+Pumpkin Pie Spice				
+Peppers				
+Ancho Chile, Ground				
+Ancho Chile, Whole Dried				
+Anaheim Chile Powder				
+Anaheim Chile, Whole Dried				
+Black Pepper, Ground				
+Pepper, Gourmet Black Ground				
+Black Pepper, Cracked				
+Black Pepper, Butcher's Grind				
+Black Pepper, Restaurant Grind				
+Black Peppercorns				
+Black Tellicherry				
+Chipotle Pepper, Ground				
+Crushed Red Pepper-20K				
+Crushed Red Pepper-40K				
+Crushed Red Pepper-60K				
+Green Bell Pepper Flakes				
+Green Bell Pepper Granules				
+Habanero Pepper, Ground				
+Habanero Pepper Flakes				
+Jalapeno Pepper, Ground				
+Mixed 5 Pepper Blend				
+Red Cayenne Pepper 20K				
+Red Cayenne Pepper-40K				
+Red Cayenne Pepper-60K				
+Red Cayenne Pepper-90K				
+Red Cayenne Pepper-130K				
+Red Cayenne Pepper-160K				
+Red Bell Pepper Granules				
+Red Bell Pepper Flakes				
+White Pepper, Ground				
+Peppercorns				
+Black Peppercorns				
+Black Tellicherry				
+Mixed 5 Pepper Blend				
+Szechuan Peppercorns				
+White Peppercorns				
+Rosemary, Whole				
+Rosemary, Cracked				
+Rosemary, Ground				
+Sage, Ground				
+Sage, Rubbed				
+Salt, Sour/Citric Acid				
+Salt, Cure				
+Sea Salt, Fine				
+Sea Salt, Medium				
+Sea Salt, Coarse				
+Salt, Pretzel				
+Salt, Seasoned				
+Salt, Flour / Superfine				
+Salt, Hickory Smoked				
+Salt, Mesquite				
+Savory, Ground				
+Savory, Whole				
+Sausage Seasoning				
+Seafood Seasoning, Old Gulf				
+Sesame Seed, Black				
+Sesame Seed, White				
+Shallots				
+Soy Sauce Powder				
+Spinach Flakes				
+Steak Seasoning, Canadian Style				
+Steak Seasoning, Black Pepper Steak Spice				
+Sugar, Turbinado				
+Taco Seasoning				
+Tomato Flakes				
+Tomato Powder				
+Thyme, Cut Leaf				
+Thyme, Ground				
+TriCalcium Phosphate				
+Turmeric, Ground				
+Vanilla Beans				
+Vegetable Flakes				
+Vinegar Powder				
+Cider Vinegar Powder				
+Wasabi Powder				
+White Chicken Chili Mix				
+Worcestershire Powder				
+Xanthan Gum				
+Almond, Imitation				
+Almond Extract, Pure				
+Amaretto				
+Anise Extract, Pure				
+Apple				
+Banana				
+Blackberry				
+Black Cherry				
+Black Raspberry				
+Black Walnut				
+Blueberry				
+Bourbon				
+Brandy				
+Bubblegum				
+Burnt Sugar				
+Butter				
+Butter Pecan				
+Butter Rum				
+Caramel				
+Champagne				
+Cherry Extract				
+Black Cherry				
+Wild Cherry				
+Chocolate				
+Cinnamon Extract				
+Coconut				
+Cotton Candy				
+Cream Cheese				
+Eggnog				
+Hazelnut				
+Irish Cream				
+Key Lime				
+Lemon Extract, Pure				
+Lime Twist				
+Mango				
+Maple				
+Orange Extract, Pure				
+Passion Fruit				
+Peach				
+Peppermint Extract, Pure				
+Pistachio				
+Pineapple				
+Pumpkin Spice				
+Raspberry, Red				
+Raspberry, Black				
+Root Beer				
+Rum				
+Strawberry				
+Wild Strawberry				
+Vanilla Butter & Nut				
+Vanilla Extract, Pure				
+Vanilla Extract, Imitation				
+Vanilla Extract, White (Clear)				
+Watermelon				

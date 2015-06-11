@@ -1,0 +1,28 @@
+RECIPE TRANSFORMER PROJECT
+
+Group: Monisha Appalaraju, Juliusz Choinski, Sam Elberts, Thomas Saxton
+Environment: Python 2.7
+
+DEPENDENCIES:
+1. NLTK - Natural Language Toolkit
+   pip install -U numpy
+   pip install -U pyyaml nltk
+2. Beautiful Soup 4
+   pip install beautifulsoup4
+3. urllib2
+   Should be standard Python library
+4. flask
+   installation instructions: http://flask.pocoo.org/docs/installation/
+5. string
+   Should be standard Python library
+
+RUNNING WEB INTERFACE
+1. From command line:
+   $ python web.py
+2. Point browser to: http://127.0.0.1:5000/
+
+RUNNING COMMAND LINE INTERFACE:
+$ python main.py http://www.allrecipes.com/SPECIFIC_RECIPE_URL
+
+PRINTING JSON OUTPUT:
+$ python getJSON.py http://www.allrecipes.com/SPECIFIC_RECIPE_URL

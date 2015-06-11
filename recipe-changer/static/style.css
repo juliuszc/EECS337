@@ -1,0 +1,11 @@
+body{
+	margin: 0px;
+	padding-top: 70px;
+}
+.nav > li.disabled.nav-header{
+    cursor: default;
+    font-size: 12px;
+    font-weight: 900;
+    text-transform: uppercase;
+    padding-top: 12px;
+}
